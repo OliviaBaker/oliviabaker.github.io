@@ -3,7 +3,6 @@ My Project Portfolio
 
 ### 360
 
-
 Project Description
 
 This picture shows where our school meets to watch programs presented by other communities or our school. 
